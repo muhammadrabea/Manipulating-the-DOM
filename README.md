@@ -2,7 +2,7 @@
 
 The project is about changing a static Landing web page into a dynamic one.
 This is achieved by using HTML and CSS for the static part.
-After building the basics by HTML and CSS they are later manipulated by *JavaScript*, or we can say Manipulating the **DOM** with JavaScript.
+After building the basics by HTML and CSS they are later manipulated by *__JavaScript__*, or we can say "Manipulating" the **DOM** with JavaScript.
 The dynamics included in the page is mostly navigational.
 There is a number of sections that contain some text, each section gets highlighted when it's under view.
 Also there is a __navagation bar__ at the top of the page contains all the sections in the page.
