@@ -14,4 +14,4 @@ Don't worry, you won't get lost in the sections ,because you gonna find your sec
 1. Open the HTML file in your browser.
 2. Scroll throught the sections.
 3. try clicking the section in the white Navagational Bar at the top.
-4. Hopefully, Enjoy reviewing my first project ever *Yaaaay!*.
+4. Hopefully, Enjoy reviewing my first project ever. *Yaaaay!*.
